@@ -53,10 +53,10 @@ $cache = getcache();
             <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header"><img alt="Smiley" id="img-preview" class="img-preview" src="s/s/arf.gif">&nbsp;Codes&nbsp;:&nbsp;</li>
-              <li><label for="img-bbcode">BBCode&nbsp;:</label><input class="input" id="img-bbcode" onfocus="selectField(this)" type="text"></li>
-              <li><label for="img-zcode">ZCode&nbsp;-&nbsp;NCode&nbsp;:</label><input class="input" id="img-zcode" onfocus="selectField(this)" type="text"></li>
-              <li><label for="img-html">HTML&nbsp;:</label><input class="input" id="img-html" onfocus="selectField(this)" type="text"></li>
-              <li><label for="img-markdown">Markdown&nbsp;: <input class="input" id="img-markdown" onfocus="selectField(this)" type="text"></label></li>
+              <li><label for="img-bbcode">BBCode&nbsp;:</label><input class="input" id="img-bbcode" onfocus="selectField(this)" type="text" style="width: 100%"></li>
+              <li><label for="img-zcode">ZCode&nbsp;-&nbsp;NCode&nbsp;:</label><input class="input" id="img-zcode" onfocus="selectField(this)" type="text" style="width: 100%"></li>
+              <li><label for="img-html">HTML&nbsp;:</label><input class="input" id="img-html" onfocus="selectField(this)" type="text" style="width: 100%"></li>
+              <li><label for="img-markdown">Markdown&nbsp;: </label><input class="input" id="img-markdown" onfocus="selectField(this)" type="text" style="width: 100%"></li>
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
