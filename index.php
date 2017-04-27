@@ -65,7 +65,7 @@ require_once './cache/'. $cache .'.cache'; ?>
         </div><!--/row-->
         <hr>
         <footer>
-            <p>&copy; <a href="http://vivi.1.free.fr/">Vivi.1</a>, et d'autres ; adapté d'un projet de <a href="http://nayi.free.fr/">Thunderseb</a> — 2010 - 2017</p>
+            <p>&copy; <a href="http://vivi.1.free.fr/">Vivi.1</a>, et d'autres ; adapté d'un projet de <a href="http://nayi.free.fr/smilies/">Thunderseb</a> — 2010 - 2017</p>
         </footer>
     </div><!--/.fluid-container-->
     <script>
